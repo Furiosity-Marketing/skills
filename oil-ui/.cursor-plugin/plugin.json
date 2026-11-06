@@ -1,0 +1,8 @@
+{
+  "name": "oil-ui",
+  "description": "UI design, improvement and review for websites, apps, dashboards and components: explore design directions, generate multi-style comparison boards, polish visuals from real screenshots. (Chinese-language skill)",
+  "version": "0.32.0",
+  "author": { "name": "oil-oil" },
+  "license": "MIT",
+  "keywords": ["design","ui","ux","review","frontend"]
+}

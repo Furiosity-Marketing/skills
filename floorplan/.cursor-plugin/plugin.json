@@ -1,0 +1,8 @@
+{
+  "name": "floorplan",
+  "description": "Interactive node-graph floorplan of a codebase or PRD: every subsystem, module, file and HTTP route with human-readable names, saved as floorplan/index.html.",
+  "version": "0.6.3",
+  "author": { "name": "haydenschmitty" },
+  "license": "MIT",
+  "keywords": ["architecture","codebase","visualization","documentation","onboarding","diagram"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "awwwwards-mcp",
+  "version": "1.18.0",
+  "description": "Awwwards design-inspiration MCP server: search award-winning sites, pull design DNA (palette, stack, elements), band-map and motion-census any URL, and verify builds against the original. Runs via npx.",
+  "author": { "name": "INSANE0777" },
+  "repository": "https://github.com/INSANE0777/Awwwards-mcp",
+  "license": "MIT",
+  "keywords": ["mcp","awwwwards","design","inspiration","ui","motion"],
+  "skills": []
+}

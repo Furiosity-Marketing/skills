@@ -28,7 +28,7 @@ npx skills@latest add emilkowalski/skills
 
 ### Devin
 
-This repo is a Devin plugin marketplace. Installing the repo root installs the `fsm-skills` meta-plugin, which pulls in all three plugins:
+This repo is a Devin plugin marketplace. Installing the repo root installs the `fsm-skills` meta-plugin, which pulls in all plugins:
 
 ```bash
 devin plugins install Furiosity-Marketing/skills
@@ -40,6 +40,17 @@ Or install a single plugin from its subfolder:
 devin plugins install Furiosity-Marketing/skills#emil-ui-skills
 devin plugins install Furiosity-Marketing/skills#fsm-website-qa-skills
 devin plugins install Furiosity-Marketing/skills#fsm-web-playbook
+devin plugins install Furiosity-Marketing/skills#impeccable
+devin plugins install Furiosity-Marketing/skills#floorplan
+devin plugins install Furiosity-Marketing/skills#taste-skill
+devin plugins install Furiosity-Marketing/skills#hallmark
+devin plugins install Furiosity-Marketing/skills#ui-ux-pro-max
+devin plugins install Furiosity-Marketing/skills#oil-ui
+devin plugins install Furiosity-Marketing/skills#dimensional-drawing
+devin plugins install Furiosity-Marketing/skills#awwwards-mcp
+devin plugins install Furiosity-Marketing/skills#design-how
+devin plugins install Furiosity-Marketing/skills#brand-identity
+devin plugins install Furiosity-Marketing/skills#nectiv-aeo
 ```
 
 Skills are then available as `/<plugin>:<skill>`, e.g. `/emil-ui-skills:animate`. Org admins can add `Furiosity-Marketing/skills` from Customize → Plugins → Add plugin → From repository.

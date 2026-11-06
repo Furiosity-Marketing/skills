@@ -1,0 +1,9 @@
+{
+  "name": "hallmark",
+  "version": "2.0.0",
+  "description": "Design skill for websites and new pages that look designed, not generated. Vendored from Nutlope/hallmark.",
+  "author": { "name": "Nutlope" },
+  "repository": "https://github.com/Nutlope/hallmark",
+  "license": "MIT",
+  "keywords": ["design","website","ui","typography","brand"]
+}

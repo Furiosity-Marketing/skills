@@ -1,7 +1,7 @@
 {
   "name": "fsm-skills",
-  "version": "1.1.0",
-  "description": "FSM agency skills: UI/animation, WordPress QA, and repeatable web development workflows",
+  "version": "1.2.0",
+  "description": "FSM agency skills: UI/animation, WordPress QA, web dev workflows, and curated third-party design skills",
   "author": { "name": "FSM Agency" },
   "repository": "https://github.com/Furiosity-Marketing/skills",
   "license": "MIT",
@@ -21,6 +21,61 @@
       "source": "git-subdir",
       "url": "https://github.com/Furiosity-Marketing/skills.git",
       "path": "fsm-web-playbook"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "impeccable"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "floorplan"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "taste-skill"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "hallmark"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "ui-ux-pro-max"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "oil-ui"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "dimensional-drawing"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "awwwards-mcp"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "design-how"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "brand-identity"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/Furiosity-Marketing/skills.git",
+      "path": "nectiv-aeo"
     }
   ]
 }

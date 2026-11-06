@@ -1,0 +1,8 @@
+{
+  "name": "dimensional-drawing",
+  "description": "Apple-style monochrome dimensional drawing sheets for UI components and products, plus a motion variant that animates a finished sheet.",
+  "version": "1.0.0",
+  "author": { "name": "enesozturk" },
+  "license": "MIT",
+  "keywords": ["design","ui","drawing","annotation","spec-sheet"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "oil-ui",
+  "version": "0.32.0",
+  "description": "UI design, improvement and review for websites, apps, dashboards and components: explore design directions, generate multi-style comparison boards, polish visuals from real screenshots. Vendored from oil-oil/oil-ui.",
+  "author": { "name": "oil-oil" },
+  "repository": "https://github.com/oil-oil/oil-ui",
+  "license": "MIT",
+  "keywords": ["design","ui","ux","review","frontend"]
+}

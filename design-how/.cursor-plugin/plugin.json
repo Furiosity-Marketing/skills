@@ -1,0 +1,8 @@
+{
+  "name": "design-how",
+  "description": "82 design skills from design.how: 6 core design-system skills, 4 full design systems (glaze, lime, sodium, quartz) and 72 vault UI effects.",
+  "version": "1.0.0",
+  "author": { "name": "arla6ka" },
+  "license": "MIT",
+  "keywords": ["design-system","ui","components","tokens","effects","migration"]
+}
