@@ -1,0 +1,8 @@
+{
+  "name": "impeccable",
+  "description": "Design fluency for frontend development: design, redesign, critique, audit, polish or animate websites, app UI, components and design systems.",
+  "version": "4.8.0",
+  "author": { "name": "Paul Bakaus" },
+  "license": "MIT",
+  "keywords": ["design","frontend","ui","ux","audit","critique","polish","animation"]
+}

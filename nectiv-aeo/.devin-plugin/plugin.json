@@ -1,0 +1,9 @@
+{
+  "name": "nectiv-aeo",
+  "version": "0.9.0",
+  "description": "Audit and rewrite content (URL, draft or pasted copy) to be more likely cited by ChatGPT and other LLM answer engines; returns prioritized fixes and a Google Doc. Vendored from Nectiv-Digital/nectiv-claude-skills (aeo-content-structure-optimizer).",
+  "author": { "name": "Nectiv-Digital" },
+  "repository": "https://github.com/Nectiv-Digital/nectiv-claude-skills",
+  "license": "MIT",
+  "keywords": ["seo","aeo","geo","content","llm","citations"]
+}

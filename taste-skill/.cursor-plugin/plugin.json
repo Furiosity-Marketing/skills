@@ -1,0 +1,8 @@
+{
+  "name": "taste-skill",
+  "description": "Anti-slop frontend skill (design-taste-frontend): builds professional company websites with real photography and product UI, enforced by a real-browser checker.",
+  "version": "2.5.0",
+  "author": { "name": "Leonxlnx" },
+  "license": "MIT",
+  "keywords": ["design","frontend","landing-page","ui","anti-slop","taste"]
+}

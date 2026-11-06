@@ -1,0 +1,8 @@
+{
+  "name": "ui-ux-pro-max",
+  "description": "UI/UX design intelligence: searchable local database of 80 styles, 192 palettes, 74 font pairings, 25 charts and 22 stacks, plus 6 supporting design skills.",
+  "version": "2.15.0",
+  "author": { "name": "nextlevelbuilder" },
+  "license": "MIT",
+  "keywords": ["ui","ux","design","typography","color-palette","accessibility","charts"]
+}

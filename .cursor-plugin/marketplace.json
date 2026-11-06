@@ -4,8 +4,8 @@
     "name": "FSM Agency"
   },
   "metadata": {
-    "description": "FSM agency skills: UI/animation, WordPress QA, and repeatable web development workflows",
-    "version": "1.1.0"
+    "description": "FSM agency skills: UI/animation, WordPress QA, web dev workflows, and curated third-party design skills",
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -22,6 +22,61 @@
       "name": "fsm-web-playbook",
       "source": "fsm-web-playbook",
       "description": "FSM repeatable WordPress development workflows, including JSON-LD schema"
+    },
+    {
+      "name": "impeccable",
+      "source": "impeccable",
+      "description": "Design fluency for frontend: audit, critique, polish and animate UI (pbakaus/impeccable)"
+    },
+    {
+      "name": "floorplan",
+      "source": "floorplan",
+      "description": "Interactive node-graph map of a codebase or PRD saved as floorplan/index.html (haydenschmitty/floorplan)"
+    },
+    {
+      "name": "taste-skill",
+      "source": "taste-skill",
+      "description": "Anti-slop frontend skill for professional company websites (Leonxlnx/taste-skill)"
+    },
+    {
+      "name": "hallmark",
+      "source": "hallmark",
+      "description": "Design skill for websites and new pages that look designed, not generated (Nutlope/hallmark)"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": "ui-ux-pro-max",
+      "description": "UI/UX design intelligence database plus supporting design skills (nextlevelbuilder/ui-ux-pro-max-skill)"
+    },
+    {
+      "name": "oil-ui",
+      "source": "oil-ui",
+      "description": "UI design, improvement and review for websites, apps and dashboards (oil-oil/oil-ui)"
+    },
+    {
+      "name": "dimensional-drawing",
+      "source": "dimensional-drawing",
+      "description": "Apple-style dimensional drawing sheets for UI components, plus a motion variant (enesozturk/dimensional-drawing)"
+    },
+    {
+      "name": "awwwards-mcp",
+      "source": "awwwwards-mcp",
+      "description": "Awwwards design-inspiration MCP server via npx (INSANE0777/Awwwards-mcp)"
+    },
+    {
+      "name": "design-how",
+      "source": "design-how",
+      "description": "82 design skills: design-system workflows, 4 design systems and 72 vault UI effects (arla6ka/design.how)"
+    },
+    {
+      "name": "brand-identity",
+      "source": "brand-identity",
+      "description": "Brand identity sets: logo, typography and palette measured and compared, plus guidelines kit (fatihaydost/brand-identity-skill)"
+    },
+    {
+      "name": "nectiv-aeo",
+      "source": "nectiv-aeo",
+      "description": "AEO content optimizer: audit and rewrite content for LLM citations (Nectiv-Digital/nectiv-claude-skills)"
     }
   ]
 }
