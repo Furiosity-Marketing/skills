@@ -1,9 +1,9 @@
 {
   "name": "fsm-web-playbook",
-  "description": "FSM repeatable WordPress development workflows, including JSON-LD schema",
-  "version": "1.0.0",
+  "description": "Furiosity Marketing WordPress workflows for JSON-LD schema and ACF field groups",
+  "version": "1.1.0",
   "author": {
-    "name": "FSM Agency"
+    "name": "Furiosity Marketing"
   },
   "keywords": [
     "wordpress",
@@ -11,6 +11,7 @@
     "json-ld",
     "seo",
     "yoast",
-    "aioseo"
+    "aioseo",
+    "acf"
   ]
 }

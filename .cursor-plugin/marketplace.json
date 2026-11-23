@@ -21,7 +21,7 @@
     {
       "name": "fsm-web-playbook",
       "source": "fsm-web-playbook",
-      "description": "FSM repeatable WordPress development workflows, including JSON-LD schema"
+      "description": "Furiosity Marketing WordPress workflows for JSON-LD schema and ACF field groups"
     }
   ]
 }
