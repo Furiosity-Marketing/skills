@@ -62,6 +62,9 @@ where they differ from these defaults.
 - Try to publish and schedule with a required value missing. Confirm the check
   runs at the right time, then complete the required fields and confirm both
   paths work. Leave optional fields empty in the test.
+- If the same rules apply to published edits, clear a required value on a
+  published staging entry and try to update it. Confirm the update is rejected
+  with a useful message and the previous published value stays intact.
 - Reopen an existing entry and preview the rendered page. Confirm stored values
   and overrides survived and approved headings appear as expected.
 - If using Local JSON, commit the updated definitions. Follow the repo's sync
